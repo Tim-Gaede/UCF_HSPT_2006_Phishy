@@ -1,0 +1,7 @@
+From: whitespace@test.com
+X-Lines: 5
+Click <a href="http://www.whitespaceit.com/tests/case.html">
+                  test1.whitespaceit.com </
+a               
+>
+Should be ok!

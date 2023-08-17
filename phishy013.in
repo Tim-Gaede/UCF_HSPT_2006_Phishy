@@ -1,0 +1,5 @@
+From: biglink
+X-Lines: 3
+<a href="http://www.cs.ucf.edu">this is a long link
+www.cs.ucf.edu.hacked
+that has an invalid domain on a line by itself</a>
